@@ -1,6 +1,6 @@
 # `diffusion1D`
 
-Solves the one-dimensional diffusion equation (i.e. heat equation) for Neumann and Dirichlet type boundary conditions.
+Solves the one-dimensional diffusion equation (i.e. heat equation) for Neumann and Dirichlet type boundary conditions using three different methods (FTCS, BTCS, and CTCS (Crank-Nicolson)). Two different implementations of the FTCS method are also used: (1) the looped implementation and (2) the simultaneous implementation.
 
 
 ## Syntax
